@@ -1,3 +1,4 @@
+// UwU
 use std::io;
 use minifb::{Key, Window, WindowOptions};
 
